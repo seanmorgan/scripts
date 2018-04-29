@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir tmp_installers -p
+mkdir tmp_installers
 cd tmp_installers
 
 # firefox
